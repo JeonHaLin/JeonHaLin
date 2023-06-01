@@ -1,4 +1,9 @@
-### Hi there 👋
+```cpp
+int main(){
+  printf(Hello World);
+  return 0;
+}
+```
 
 <!--
 **JeonHaLin/JeonHaLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
