@@ -1,6 +1,9 @@
 ```cpp
 int main(){
-  printf(Hello World);
+  printf("Hello World!");
+  while(!success()){
+    tryHarder();
+  }
   return 0;
 }
 ```
