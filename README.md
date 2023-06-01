@@ -1,8 +1,9 @@
 ```cpp
 #include <iostream>
+#include <life>
 
 int main(){
-  printf("Hello World!");
+  std::cout << "Hello World!";
   
   while(!success()){
     tryHarder();
